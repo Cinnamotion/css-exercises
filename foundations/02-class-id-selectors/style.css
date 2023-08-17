@@ -8,12 +8,11 @@
 	font-size: 36px;
 }
 
-.alone {
+.alone, #four{
 	font-size: 24px;
 }
 
 #four {
 	background-color: lightgreen;
-	font-size: 24px;
 	font-weight: bold;
 }
